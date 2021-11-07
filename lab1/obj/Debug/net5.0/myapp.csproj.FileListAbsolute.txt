@@ -1,0 +1,16 @@
+E:\mirzabekov00\projects\myapp\bin\Debug\net5.0\myapp.exe
+E:\mirzabekov00\projects\myapp\bin\Debug\net5.0\myapp.deps.json
+E:\mirzabekov00\projects\myapp\bin\Debug\net5.0\myapp.runtimeconfig.json
+E:\mirzabekov00\projects\myapp\bin\Debug\net5.0\myapp.runtimeconfig.dev.json
+E:\mirzabekov00\projects\myapp\bin\Debug\net5.0\myapp.dll
+E:\mirzabekov00\projects\myapp\bin\Debug\net5.0\ref\myapp.dll
+E:\mirzabekov00\projects\myapp\bin\Debug\net5.0\myapp.pdb
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.csproj.AssemblyReference.cache
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.AssemblyInfoInputs.cache
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.AssemblyInfo.cs
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.csproj.CoreCompileInputs.cache
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.dll
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\ref\myapp.dll
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.pdb
+E:\mirzabekov00\projects\myapp\obj\Debug\net5.0\myapp.genruntimeconfig.cache
