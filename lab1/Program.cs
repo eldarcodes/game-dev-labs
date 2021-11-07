@@ -11,6 +11,9 @@ namespace Lab1
 
             double task13_2 = Task2.sumFactorials(3);
             Console.WriteLine("13.2 result is - " + task13_2);
+
+            double task13_3 = Task3.calculateSeriesExpansion(2.5, 6.4);
+            Console.WriteLine("13.3 result is - " + task13_3);
         }
     }
 
@@ -34,6 +37,42 @@ namespace Lab1
                 prod *= i;
                 sum += prod;
             }
+
+            return sum;
+        }
+    }
+
+    class Task3
+    {
+        public static double Factorial(int N)
+        {
+            double result = 1;
+            for (int i = 1; i < N; i++)
+            {
+                result *= i;
+            }
+
+            return result;
+        }
+
+        public static double calculateSeriesExpansion(double epsilon, double x)
+        {
+            double sum = 0;
+            double numerator = x;
+            double coefNumerator = -x * x;
+            double lastSummand;
+
+            int n = 1;
+
+            do
+            {
+                lastSummand = numerator / Factorial(n);
+
+                sum += lastSummand;
+                numerator *= coefNumerator;
+                n += 2;
+            }
+            while (Math.Abs(lastSummand) > epsilon);
 
             return sum;
         }
